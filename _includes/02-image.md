@@ -1,1 +1,1 @@
-![this is my image](image-1465348_960_720.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
